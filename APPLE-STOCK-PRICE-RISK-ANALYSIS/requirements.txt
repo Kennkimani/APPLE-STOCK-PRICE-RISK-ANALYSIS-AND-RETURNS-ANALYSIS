@@ -1,0 +1,8 @@
+# Runtime dependencies
+yfinance>=0.2.40
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+
+# Development/test dependencies are managed in pyproject.toml:
+# uv sync --group dev
